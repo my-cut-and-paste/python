@@ -1,2 +1,2 @@
 # python
-cut-and-paste用のソースコードをgithubに置いておく
+カット&ペースト用のソースコードをgithubに置いておく
